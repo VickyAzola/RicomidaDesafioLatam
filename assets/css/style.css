@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
+
+body {
+    font-family: "Cabin", sans-serif !important;
+    color: #373A3C !important;
+}
+
+.lobster-regular {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+}
+
+header h1 {
+    font-size: 1.563rem;
+}
+
+.carousel .carousel-indicators {
+    margin-bottom: -2.5rem;
+}
+
+.carousel .carousel-indicators button {
+    width: .75rem;
+    height: .75rem;
+    border-radius: 50%;
+    background-color: #373A3C;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: -2rem;
+}
+
+ol {
+    margin-left: -2rem;
+    list-style-position: inside;
+}
+
+ol li {
+    margin-bottom: 1.5rem;
+}
+
+main section h4 {
+    font-size: 1.563rem;
+}
+
+footer .bg-danger {
+    padding: 7rem 3rem;
+}
+
+footer h5 span:first-child {
+    font-size: 1.875rem;
+}
+
+footer section:last-child {
+    background-color: #373A3C;
+}
+
+footer section:last-child p {
+    font-size: 2.313rem;
+}
+
+@media (width >= 576px) {
+    main > div {
+        border-top: 1px solid black;
+    }
+
+    footer section:first-child button {
+        max-width: 14.563rem;
+    }
+}
+
+@media (width >= 768px) {
+    header h1, 
+    main section h4,
+    footer h5 span:first-child {
+        font-size: 2.5rem;
+    }
+
+    main h2, main h3 {
+        text-decoration: underline;
+        text-underline-offset: .5rem;
+    }
+
+    footer h5 span:nth-of-type(2), 
+    footer h5 span:nth-of-type(3)  {
+        font-size: 1.875rem;
+    }
+}

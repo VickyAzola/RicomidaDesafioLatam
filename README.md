@@ -12,7 +12,7 @@
 
 Este proyecto es una página web para *Ricomida*, una pizzería que ofrece la mejor pizza estilo Chicago con espinacas y champiñones. La página incluye una navegación, un carrusel de imágenes, una sección de recetas relacionadas y un formulario de suscripción al boletín informativo.
 
-[Aqui puedes ver el resultado final](https://vickyazola.github.io/RecomidaDesafioLatam/)
+[Aqui puedes ver el resultado final](https://vickyazola.github.io/RicomidaDesafioLatam/)
 
 ![Wireframe - 1](https://github.com/VickyAzola/RicomidaDesafioLatam/assets/116470398/803066a7-403a-4684-a082-b8ca03050683)
 

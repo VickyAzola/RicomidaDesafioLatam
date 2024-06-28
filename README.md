@@ -14,8 +14,8 @@ Este proyecto es una página web para *Ricomida*, una pizzería que ofrece la me
 
 [Aqui puedes ver el resultado final](https://vickyazola.github.io/RecomidaDesafioLatam/)
 
+![Wireframe - 1](https://github.com/VickyAzola/RicomidaDesafioLatam/assets/116470398/803066a7-403a-4684-a082-b8ca03050683)
 
-![Wireframe - 1](https://github.com/VickyAzola/RecomidaDesafioLatam/assets/116470398/b62fe101-c667-46bf-b40b-d0cc8bc56e6d)
 
 ## Estructura del Proyecto
 

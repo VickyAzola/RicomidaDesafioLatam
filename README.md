@@ -62,11 +62,11 @@ El archivo `script.js` incluye la activación de tooltips de Bootstrap y algunas
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/ricomida.git
+    git clone https://github.com/VickyAzola/RicomidaDesafioLatam.git
     ```
 2. Navega al directorio del proyecto:
     ```bash
-    cd ricomida
+    cd RicomidaDesafioLatam
     ```
 3. Abre `index.html` en tu navegador para ver el sitio web.
 
